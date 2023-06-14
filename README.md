@@ -11,11 +11,11 @@ In the project directory, run:
 To install dependancies.
 
 Import calendar_app.sql into a MySQL database environment or replicate structure specified in the file.  
-Replace paths in ***"/src/php/api.php"*** with global paths to ***"/src/php/database.php"*** and ***"/src/php/jwt.php"*** on your server.  
-Replace ***"./php/api.php"*** in ***"/src/server.js"*** with a global path to ***"/src/php/api.php"*** on your server.  
-Modify ***"/src/php/database.php"*** to include appropriate credentials.
+Replace paths in **"/src/php/api.php"** with global paths to **"/src/php/database.php"** and **"/src/php/jwt.php"** on your server.  
+Replace **"./php/api.php"** in **"/src/server.js"** with a global path to **"/src/php/api.php"** on your server.  
+Modify **"/src/php/database.php"** to include appropriate credentials.
 
-In the project ***"/src/"*** directory, run:
+In the project **"/src/"** directory, run:
 
 ### `node server.js`
 
