@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Implementation for the Contemporary Web Applications assignment.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Necessary preparations
+
+Import calendar_app.sql into a MySQL database environment or replicate structure specified in the file.
+Replace paths in /src/php/api.php with global paths to /src/php/database.php and /src/php/jwt.php on your server.
+Modify /src/php/database.php to include appropriate credentials.
+
+In the project /src/ directory, run:
+
+### `node server.js`
+
+To launch an Express API server.
 
 ## Available Scripts
 
