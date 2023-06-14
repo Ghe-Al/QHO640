@@ -70,14 +70,9 @@ Overall, a SPA for meeting management has the potential to greatly improve team 
 
 ### References
 
-1. "The Importance of Effective Meeting Management" by The Balance Careers: This article discusses the role of effective meetings in promoting collaboration, communication, and student achievement in education. It also provides tips for conducting effective meetings in educational settings. (https://www.thebalancecareers.com/the-importance-of-effective-meeting-management-1919236)
+1. Bruski, Caleb (2021) ‘What Is a Mockup & Why Do You Need One’, Visme blog, 12 October. Available at: https://visme.co/blog/what-is-a-mockup/
 
-2.  Running Effective Meetings – How Do I Start and Host a Meeting? - This article by MindTools provides guidance on how to organize and run effective and successful meetings, including a free agenda worksheet. (https://www.mindtools.com/afhhhdo/running-effective-meetings)
+2.  Rogelberg, Steven (2019) ‘Why Your Meetings Stink—and What to Do About It’, Harvard Business Review, January-February, pp.140-143. Available at: https://hbr.org/2019/01/why-your-meetings-stink-and-what-to-do-about-it
+3. BasuMallick, Chiradeep (2022) ‘What Is a Single-Page Application? Architecture, Benefits, and Challenges’, Spiceworks, 18 October. Available at: https://www.spiceworks.com/tech/devops/articles/what-is-single-page-application/
 
-3. Why Your Meetings Stink — and What to Do About It – This article helps managers diagnose their meeting problems, better prepare for and facilitate the gatherings they lead, and seek feedback to improve their meeting skills. It emphasizes the importance of meetings in allowing people to do their jobs in a more coordinated and cooperative manner, forming a coherent whole that is more adaptive, resilient, and self-directing, and establishing and promoting consensus. The author is Harvard Business Review. https://hbr.org/2019/01/why-your-meetings-stink-and-what-to-do-about-it
-
-4. "What Is a Mockup & Why Do You Need One" by V: https://visme.co/blog/what-is-a-mockup/ This article explains the importance of mockups in the design process and how they can help you visualize your ideas and get feedback from stakeholders.
-
-5. “The Benefits Of A Mock Up In Website Design” by JoomDev. This article explains that mockups allow the testing of a website’s functionality using an interactive prototype to promote amazing user experience. It emphasizes that mockups are realistic and a great opportunity for web design teams to study the results of their design decisions before web development starts. https://www.joomdev.com/benefits-of-mock-up-in-website-design/
-
-6. “What Is a Single-Page Application? Architecture, Benefits, and Challenges” by Spiceworks - The article explains that SPAs provide a smoother user experience, higher performance, and responsiveness. It emphasizes that the benefits of using single-page applications include faster and more responsive design, but there are also challenges to consider. https://www.spiceworks.com/tech/devops/articles/what-is-single-page-application/
+4. Kumar, Naveen (2020) ‘The Benefits Of A Mock Up In Website Design’, Joomdev, 6 January. Available at: https://www.joomdev.com/benefits-of-mock-up-in-website-design
