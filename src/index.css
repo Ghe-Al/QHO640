@@ -1,0 +1,251 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace; */
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: #FD8C8C;
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding-top: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold !important;
+}
+
+h2 {
+  color: #FD8C8C;
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding-top: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold !important;
+}
+
+input {
+  outline: none;
+}
+
+.commentsInput {
+  display: block;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  border: 3px solid #FD8C8C;
+  background: #fff;
+}
+
+.appointRadio {
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+
+.scheduled {
+  color: limegreen !important;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+input[type="radio"] {  
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.dateDisplay {
+  display: block;
+  width: 100%;
+  padding: 5px;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.success {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;
+  margin: 30px auto;
+  padding: 30px 60px;
+  box-shadow: #333 0 0 10px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  background: rgb(253,140,140);
+  background: linear-gradient(90deg, rgba(253,140,140,1) 0%, rgba(49,20,20,1) 100%);
+}
+
+.success img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.success h1 {
+  color: #FFFF;
+  text-align: center;
+  display: block;
+  width: 100%;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold !important;
+}
+
+.login-form,
+.register-form,
+.appoint-form,
+.profile,
+.details,
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;
+  margin: 30px auto;
+  padding: 30px 60px;
+  box-shadow: #333 0 0 10px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
+
+.detailsInfoBlock {
+  display: block;
+  width: 100%;
+}
+
+.detailsInfo {
+  display: inline-block;
+  padding: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+
+.details label {
+  display: inline-block;
+  padding: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.appointLabel,
+.login-form label,
+.register-form label,
+.profile label {
+  display: block;
+  width: 100%;
+  padding: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+
+.appointInput,
+.login-form input,
+.register-form input,
+.details input,
+.profile input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 3px solid #FD8C8C;
+  background: #fff;
+}
+
+.appointButton,
+.login-form button,
+.register-form button,
+.details button,
+.profile button {
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 10px 20px;
+  border: 0px;
+  background: #FD8C8C;
+  border-radius: 9px;
+  cursor: pointer;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.checkmark {
+  width: 20px;
+  margin-left: 15px;
+}
+
+.login-form button:hover,
+.register-form button:hover,
+.appoint-form button:hover,
+.profile button:hover,
+.main button:hover {
+  background: #BC9CFF;
+}
+
+.login-form a,
+.register-form a,
+.appoint-form a,
+.profile a,
+.details a,
+.main a {
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+  text-align: center;
+  color: #8C91FD;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+/* Navbar styles */
+.topnav {
+  width: 100%;
+  overflow: hidden;
+  background-color: #FD8C8C;
+}
+
+.topnav #navLinks {
+  display: none;
+}
+
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  display: block;
+
+}
+
+.topnav a.icon {
+  display: inline-block;
+  margin-right: auto;
+  margin-top: 0px;
+  width: 20%;
+}
+
+.topnav a.userdisplay {
+  float: right;
+  width: 80%;
+  margin-top: 0;
+  text-align:right;
+  font-size: 15px;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+.topnav a:hover {
+  background-color: #FD8C8C;
+  color: white;
+}
