@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Necessary preparations
+## Dependencies
 
 In the project directory, run:
 
@@ -10,16 +10,20 @@ In the project directory, run:
 
 To install dependancies.
 
-Import calendar_app.sql into a MySQL database environment or replicate structure specified in the file.  
-Replace paths in **"/src/php/api.php"** with global paths to **"/src/php/database.php"** and **"/src/php/jwt.php"** on your server.  
-Replace **"./php/api.php"** in **"/src/server.js"** with a global path to **"/src/php/api.php"** on your server.  
-Modify **"/src/php/database.php"** to include appropriate credentials.
+## Express API server
 
 In the project **"/src/"** directory, run:
 
 ### `node server.js`
 
 To launch an Express API server.
+
+## Necessary modifications for deployment
+
+1 - Import calendar_app.sql into a MySQL database environment or replicate structure specified in the file.  
+2 - Replace paths in **"/src/php/api.php"** with global paths to **"/src/php/database.php"** and **"/src/php/jwt.php"** on your server.  
+3 - Replace **"./php/api.php"** in **"/src/server.js"** with a global path to **"/src/php/api.php"** on your server.  
+4 - Modify **"/src/php/database.php"** to include appropriate credentials.
 
 ## Available Scripts
 
